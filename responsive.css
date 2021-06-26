@@ -1,0 +1,146 @@
+
+@media all and (max-width:1200px) {
+    .banner h1{
+        font-size: 40px;
+    }
+    .banner img{
+        width: 400px;
+    }
+}
+
+
+
+
+
+@media all and (max-width:990px) {
+    .navbar-nav .dropdown-menu{
+        position: absolute;
+    }
+    .dropdown-menu{
+        left: 89px;
+    }
+    .menu-1{
+        top: -80% !important;
+        width: 300px !important;
+    }
+    .banner h1{
+        font-size: 30px;
+    }
+    .banner img{
+        width: 300px;
+    }
+    .b-content{
+        margin-top: -60px !important;
+    }
+    .p-card {
+    
+        margin-bottom: 30px !important;
+    }
+    .team-1{
+        margin-bottom: 120px;
+        margin-left: 40px;
+        margin-right: 40px;
+    }
+    .team-1 img {
+        height: 120px;
+        width: 120px;
+        position: absolute;
+        top: -80px;
+        left: 40.5%;
+    }
+}
+@media all and (max-width:760px) {
+    .banner h1{
+        font-size: 20px;
+    }
+    .banner img{
+        width: 260px;
+    }
+    .banner p{
+        font-size: 13px;
+    }
+    .banner h5{
+        font-size: 15px;
+    }
+    .b-content{
+        margin-top: -70px !important;
+    }
+    .myButton{
+        font-size: 12px;
+    padding: 8px 25px;
+
+    }
+    .p-card {
+      left: 25%;
+    }
+    .team-1 img {
+      
+        left: 37.5%;
+    }
+    
+}
+@media all and (max-width:576px) {
+   .banner{
+        text-align: center !important;
+   }
+   .about{
+       text-align: center !important;
+       padding-top: 0 !important;
+   }
+   .card{
+    margin-left: 35px;
+   }
+
+   .number strong {
+	font-size: 30px;
+	
+}
+.p-card {
+    
+    margin-bottom: 30px !important;
+    left: 0;
+    margin: 20px !important;
+}
+
+.team-1 img {
+      height: 100px;
+      width: 100px;
+      top: -70px;
+    left: 5%;
+}
+.contact h5{
+   font-size: 1rem;
+}
+.contact h1 {
+    font-size: 1.3rem;
+    font-weight: 600;
+}
+.w-25.mx-auto.py-2.mt-4.btn-info.text-white.fw-bold.rounded-2 {
+    width: 40% !important;
+}
+.col-xl-5.mt-5.pt-5 {
+    text-align: center;
+    padding-top: 0 !important;
+    margin-top: 0 !important;
+}
+footer p{
+        margin-top: 0;
+        margin-bottom: 0;
+        font-size: 0.9rem;
+}
+   
+}
+@media all and (max-width:418px) {
+  
+   .menu-1{
+  
+        width: 200px !important;
+    }
+    .team-1 img {
+      
+        left: 28.5%;
+        height: 100px;
+        width: 100px;
+    }
+    
+}
